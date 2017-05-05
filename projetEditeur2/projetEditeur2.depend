@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1407054494 source:c:\users\asus\desktop\esi\2cpi\pragrammes c\projetediteur2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1407054500 c:\users\asus\desktop\esi\2cpi\pragrammes c\projetediteur2\conio2.h
+	<conio.h>
+	<windows.h>
+
+1480025906 source:c:\users\asus\desktop\esi\2cpi\pragrammes c\projetediteur2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<unistd.h>
+	<time.h>
+	<process.h>
+	<wchar.h>
+	<time.h>
+	"conio2.h"
+
+1479783670 source:c:\users\asus\desktop\esi\2cpi\pragrammes c\projetediteur2\ressources.rc
+
